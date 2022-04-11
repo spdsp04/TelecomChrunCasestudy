@@ -3,7 +3,12 @@
 
 ## Problem Statement
 ### Business Problem Overview
-In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. As a data scientist, your task in this case study would be to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+For many incumbent operators, retaining high profitable customers is the number one business
+goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn.
+
+In this competition, your goal is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.
 
 ## Main Goals:
 The main goal of the case study is to build ML models to predict churn. The predictive model that you’re going to build will the following purposes:
