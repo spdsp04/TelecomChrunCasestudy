@@ -71,7 +71,25 @@ In this case, since you are working over a four-month window, the first two mont
 
 - matplotlib
 
-- All libraries are fully updated as homework was done on Google colab later jupyter file was uploaded to github. 
+- All libraries are fully updated as homework was done on Google colab later file was uploaded to github. 
+
+## Top 10 High customer predicting churn variable
+
+- arpu_6 : Average revenue per user on month_6 
+- offnet_mou_8 : outside the operator network with Minutes of usage voice calls on month_8 
+- roam_og_mou_8 : outgoing roaming calls minutes of usage in month_8 
+- loc_og_t2t_mou_8 : Local call outgoing within same network in month_8 
+- std_og_t2t_mou_8 : standard outgoing call within same network in month_8 
+- loc_ic_t2f_mou_8 : Local incoming call on operator to fixed lines on month_8 
+- loc_ic_mou_8 : Local incoming call on month_8 
+- std_ic_t2f_mou_8 : standard incoming call on operator to fixed lines on month-8 
+- total_ic_mou_6 : total incoming call on month_6 
+- spl_ic_mou_8 : special incoming call on month_8 
+
+## Conclusion 
+
+- Providing discounts or offers to local incoming and outgoing calls will decrease customers from churning. 
+- Age on network is also a key indicator for identifying the churn, if aon is less number of days and their usage is reduce then the customer is going to be churned
 
 ### Contact
 Facilitator  __Durgesh Chaubey__
