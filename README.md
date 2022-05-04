@@ -92,6 +92,5 @@ In this case, since you are working over a four-month window, the first two mont
 - Age on network is also a key indicator for identifying the churn, if aon is less number of days and their usage is reduce then the customer is going to be churned
 
 ### Contact
-Facilitator  __Durgesh Chaubey__
+Created by __Durgesh Chaubey__ 
 
-Teammate  __Sanjay Biswas__
